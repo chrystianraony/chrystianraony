@@ -1,4 +1,4 @@
-## Oiii eu sou o Chrystian Raony Perazzoli, apaixonado por programação!
+## Oiii eu sou o Chrystian Raony Perazzoli.
 
 <div align="center">
   <a href="https://github.com/chrystianraony">

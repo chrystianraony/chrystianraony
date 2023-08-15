@@ -18,7 +18,7 @@ jobs:
     # As etapas representam uma sequência de tarefas que serão executadas como parte do trabalho
     steps:
     # Verifica o repositório em $GITHUB_WORKSHOP, para que seu trabalho possa acessá-lo
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       # Gera a Snack
       - uses: Platane/snk@master
         id: snake-gif
